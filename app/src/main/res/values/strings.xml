@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">.</string>
+    <string name="nr_amic">Introdu numarul de telefon la care se trimite SMS</string>
+    <string name="ok">OK</string>
+    <string name="action_settings">Settings</string>
+</resources>
